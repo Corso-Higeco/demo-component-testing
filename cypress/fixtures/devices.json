@@ -1,0 +1,6 @@
+[
+  { "name": "Impianto Rossi",   "currentKw": 9,  "expectedKw": 10, "lastSeenMinutes": 2 },
+  { "name": "Impianto Bianchi", "currentKw": 6,  "expectedKw": 10, "lastSeenMinutes": 1 },
+  { "name": "Impianto Verdi",   "currentKw": 3,  "expectedKw": 10, "lastSeenMinutes": 1 },
+  { "name": "Impianto Muto",    "currentKw": 10, "expectedKw": 10, "lastSeenMinutes": 16 }
+]
