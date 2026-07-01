@@ -1,6 +1,7 @@
 # Pipeline CI del corso — esegue i test Cypress in automatico su GitHub.
 # Ogni riga è commentata: è lo stesso file che i partecipanti scrivono nel laboratorio CI/CD.
 
+
 name: CI Cypress                       # nome che comparirà nella tab "Actions" di GitHub
 
 on:                                   # QUANDO deve partire la pipeline (i "trigger")
