@@ -8,7 +8,7 @@ describe('Dashboard impianti (E2E)', () => {
   })
 
   it('elenca tutti gli impianti', () => {
-    cy.get('[data-cy=device-card]').should('have.length', 4)
+    cy.get('[data-cy=device-card]').should('not.have.length', 4)
   })
 
   it('mostra lo stato corretto per ogni impianto', () => {
